@@ -1,5 +1,5 @@
 # CIS Implementation
-by sgwzq <3417847429@qq.com>
+By sgwzq <3417847429@qq.com>  
 Configuration Interaction Singles
 After Hartree-Fock process, we can use spin-orbitals to create single 
 excitation states. Then we can put all single-excitation states into a 
